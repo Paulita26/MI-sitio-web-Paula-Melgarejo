@@ -1,0 +1,42 @@
+body {
+    background-color: blueviolet;
+}
+.content{
+    display: inline-flex;
+    text-align: justify;
+}
+.rectangulo{
+    width: 900px;;
+    height: 900px;
+    background: darkorchid;
+}
+h1 {
+    font-family:"Encode Sans", sans-serif;
+    font-weight: 900;
+    background-color:ivory;
+}
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+}
+p{
+    font-family: "Poppins", serif;
+    font-size: larger ;
+    font-weight: 500;
+}
+.container{
+    background-color: midnightblue;
+    padding: 50px;
+    bleed: 25px;
+    display: flex;
+    flex-direction: row;
+    flex-flow: row wrap;
+    
+}
+
+.box{
+    border: 3px solid blanchedalmond;
+    font-size: 30px;
+    text-align: center;
+    margin: 15px;
+    width: 180px;
